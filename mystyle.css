@@ -1,0 +1,22 @@
+body {
+    background-color: #FFFFFF;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 100%;
+}
+
+h1 {
+    color: #000000;
+    font-size: 175%;
+}
+
+h2 {
+    color: #A9A9A9;
+    font-size: 125%;
+}
+h3  {
+    font-size: 125%; 
+}
+img {
+    border-style: solid;
+    border-width: 8px;
+}
